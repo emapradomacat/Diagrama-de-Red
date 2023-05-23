@@ -1,6 +1,6 @@
 # Diagrama-de-Red
 
-## Estructura 
+## Estructura de Archivos
 
 - Diagrama-de-Red/
     - AWS Web App Architecture ---> Diagrama creado con la aplicación LucidChart
